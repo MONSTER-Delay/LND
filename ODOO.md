@@ -16,7 +16,7 @@ Odoo es un Software de código abierto que abarca diversas funciones, como CRM, 
 
 <div id="id1"/>
 
-### Historia y Versiones
+#### Historia y Versiones
 
 Fabien Pinckaers fundó TinyERP como un proyecto de código abierto para gestionar empresas pequeñas. Con el crecimiento del proyecto, TinyERP cambió su nombre a OpenERP para reflejar mejor su naturaleza más completa y su capacidad para gestionar empresas de diferentes tamaños. OpenERP 6.0 fue una versión importante que introdujo varias mejoras en la interfaz de usuario y la funcionalidad general. También marcó el comienzo de la expansión de las características del sistema.
 
