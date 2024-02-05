@@ -10,7 +10,7 @@ El software libre es un tipo de software que respeta la libertad de los usuarios
 
 Es una plataforma de software integral diseñada para gestionar y optimizar eficientemente los procesos empresariales de una organización, que unifica y optimiza los procesos comerciales, mejora la eficiencia operativa, facilita la toma de decisiones y contribuye al crecimiento sostenible de dichas organizaciones.
 
-### Articulo 3: SAP
+### Articulo 3: posicionamientpo de SAP em España 
 
 Es una empresa alemana conocida por desarrollar software de gestión empresarial, además, también se utiliza comúnmente para referirse a los productos de software y sistemas que la empresa ofrece. Según los datos recogidos por el Grupo Penteo, la compañía SAP es el proveedor de soluciones ERP de mayor implantación en las empresas españolas, con un 53% de cuota.
 
